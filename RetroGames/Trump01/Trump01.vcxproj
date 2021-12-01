@@ -143,10 +143,19 @@
       <SubType>
       </SubType>
     </ClCompile>
+    <ClCompile Include="Deck.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Card.h">
+      <SubType>
+      </SubType>
+    </ClInclude>
+    <ClInclude Include="Common.h" />
+    <ClInclude Include="Deck.h">
       <SubType>
       </SubType>
     </ClInclude>

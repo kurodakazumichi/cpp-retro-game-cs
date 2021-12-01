@@ -8,6 +8,9 @@ public:
 	// コンストラクタ
 	Card();
 
+	// マーク、数字指定コンストラクタ
+	Card(Mark, int);
+
 	// setter, getter
 	void mark(Mark);
 	Mark mark() const;

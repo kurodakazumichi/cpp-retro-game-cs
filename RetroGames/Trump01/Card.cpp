@@ -9,6 +9,13 @@ Card::Card()
 	, mNo(0)
 {}
 
+// マーク、数字指定コンストラクタ
+Card::Card(Mark mark, int no) 
+{
+	this->mark(mark);
+	this->no(no);
+}
+
 void Card::mark(Mark mark) {
 	mMark = mark;
 }

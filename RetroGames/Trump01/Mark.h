@@ -1,7 +1,7 @@
 ﻿#pragma once
 
 enum class Mark {
-	NONE,
+	NONE = -1,
 	HEART,
 	DIAMOND,
 	CLOVER,
