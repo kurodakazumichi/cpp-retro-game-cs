@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RetroGames", "RetroGames\RetroGames.vcxproj", "{F2F65221-AC96-4430-9605-5CA658CFF991}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Trump01", "Trump01\Trump01.vcxproj", "{2C71D09B-17B4-43DC-B05A-1B675CF0F08C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F2F65221-AC96-4430-9605-5CA658CFF991}.Debug|x64.ActiveCfg = Debug|x64
-		{F2F65221-AC96-4430-9605-5CA658CFF991}.Debug|x64.Build.0 = Debug|x64
-		{F2F65221-AC96-4430-9605-5CA658CFF991}.Debug|x86.ActiveCfg = Debug|Win32
-		{F2F65221-AC96-4430-9605-5CA658CFF991}.Debug|x86.Build.0 = Debug|Win32
-		{F2F65221-AC96-4430-9605-5CA658CFF991}.Release|x64.ActiveCfg = Release|x64
-		{F2F65221-AC96-4430-9605-5CA658CFF991}.Release|x64.Build.0 = Release|x64
-		{F2F65221-AC96-4430-9605-5CA658CFF991}.Release|x86.ActiveCfg = Release|Win32
-		{F2F65221-AC96-4430-9605-5CA658CFF991}.Release|x86.Build.0 = Release|Win32
+		{2C71D09B-17B4-43DC-B05A-1B675CF0F08C}.Debug|x64.ActiveCfg = Debug|x64
+		{2C71D09B-17B4-43DC-B05A-1B675CF0F08C}.Debug|x64.Build.0 = Debug|x64
+		{2C71D09B-17B4-43DC-B05A-1B675CF0F08C}.Debug|x86.ActiveCfg = Debug|Win32
+		{2C71D09B-17B4-43DC-B05A-1B675CF0F08C}.Debug|x86.Build.0 = Debug|Win32
+		{2C71D09B-17B4-43DC-B05A-1B675CF0F08C}.Release|x64.ActiveCfg = Release|x64
+		{2C71D09B-17B4-43DC-B05A-1B675CF0F08C}.Release|x64.Build.0 = Release|x64
+		{2C71D09B-17B4-43DC-B05A-1B675CF0F08C}.Release|x86.ActiveCfg = Release|Win32
+		{2C71D09B-17B4-43DC-B05A-1B675CF0F08C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
